@@ -4,7 +4,7 @@
   "description": "ERROR: No README.md file found!",
   "private": true,
   "dependencies": {
-    "underscore": "~1.4.4",
+    "underscore": "~1.13.7",
     "rimraf": "~2.1.4",
     "mkdirp": "~0.3.4",
     "dreamopt": "~0.8.0",
